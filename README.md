@@ -1,4 +1,4 @@
-# SOC Home Lab — Flamur Xani
+# SOC Home Lab — fl4my_s0c 
 
 A practical home lab built to demonstrate real SOC analyst skills including 
 network segmentation, Active Directory, SIEM configuration, attack simulation, 
