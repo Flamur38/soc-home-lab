@@ -26,7 +26,7 @@ Booted from Ubuntu Server 24.04 ISO. Followed installer:
 - Installation type: Ubuntu Server (not minimized)
 - Network: no IP shown (expected — host-only, no DHCP)
 - Storage: entire disk
-- Username: flamur | Hostname: splunk
+- Username: fl4my | Hostname: splunk
 - OpenSSH server: installed during setup
 
 ---
@@ -70,7 +70,7 @@ sudo systemctl start ssh
 Connected from Ubuntu host:
 
 ```bash
-ssh flamur@192.168.30.10
+ssh fl4my@192.168.30.10
 ```
 
 All remaining steps performed via SSH with full copy-paste from host.
