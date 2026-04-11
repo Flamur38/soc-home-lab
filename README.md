@@ -20,8 +20,8 @@ and incident detection.
 | pfSense | pfSense CE 2.8.1 | 192.168.10.254 | Virtual firewall |
 | DC01 | Windows Server 2022 | 192.168.10.10 | Active Directory DC |
 | WIN11-CLIENT | Windows 11 Enterprise | 192.168.10.20 | Domain-joined endpoint |
-| SPLUNK | Ubuntu Server 22.04 | 192.168.30.10 | SIEM |
-| UBUNTU-SRV | Ubuntu Server 22.04 | 192.168.10.30 | DVWA web target |
+| SPLUNK | Ubuntu Server 24.04 | 192.168.30.10 | SIEM |
+| UBUNTU-SRV | Ubuntu Server 24.04 | 192.168.10.30 | DVWA web target |
 | KALI | Kali Linux | 192.168.20.10 | Attacker machine |
 
 ## Network Segments
