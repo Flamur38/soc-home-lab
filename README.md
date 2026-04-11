@@ -11,7 +11,7 @@ and incident detection.
 | DC01 | 192.168.10.10 | ✅ Complete |
 | WIN11-CLIENT | 192.168.10.20 | ✅ Complete |
 | SPLUNK | 192.168.30.10 | ✅ Complete |
-| UBUNTU-SRV | 192.168.10.30 | ⏳ Pending |
+| UBUNTU-SRV | 192.168.10.30 | ✅ Complete |
 | KALI | 192.168.20.10 | ⏳ Pending |
 
 ## Lab Architecture
