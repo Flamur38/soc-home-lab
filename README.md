@@ -7,12 +7,12 @@ and incident detection.
 ## VM Status
 | VM | IP | Status |
 |----|----|--------|
-| pfSense | 192.168.10.254 | ✅ Complete |
-| DC01 | 192.168.10.10 | ✅ Complete |
-| WIN11-CLIENT | 192.168.10.20 | ✅ Complete |
-| SPLUNK | 192.168.30.10 | ✅ Complete |
-| UBUNTU-SRV | 192.168.10.30 | ✅ Complete |
-| KALI | 192.168.20.10 | ✅ Complete |
+| pfSense | 192.168.10.254 | 
+| DC01 | 192.168.10.10 | 
+| WIN11-CLIENT | 192.168.10.20 | 
+| SPLUNK | 192.168.30.10 | 
+| UBUNTU-SRV | 192.168.10.30 | 
+| KALI | 192.168.20.10 | 
 
 ## Lab Architecture
 | VM | OS | IP | Purpose |
