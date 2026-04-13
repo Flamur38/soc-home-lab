@@ -1,12 +1,12 @@
-# SOC Home Lab — Flamur Xani
+# SOC Home Lab — fl4my_s0c
 
 A practical home lab built to demonstrate real SOC analyst skills including
 network segmentation, Active Directory, SIEM configuration, attack simulation,
 and incident detection.
 
 ## VM Status
-| VM | IP | Status |
-|----|----|--------|
+| VM | IP | 
+|----|----|
 | pfSense | 192.168.10.254 | 
 | DC01 | 192.168.10.10 | 
 | WIN11-CLIENT | 192.168.10.20 | 
